@@ -1,0 +1,7 @@
+async def -> Declare a coroutine (special function that can be paushed)
+
+await -> Pauses execution until the result ie ready.
+
+asyncio -> Library to write concurrent code using the async/await syntax.
+
+Event loop -> Core of every asyncio application. It runs in a loop, executing tasks, handling events, and managing the execution of coroutines.
